@@ -1,0 +1,15 @@
+Smart Irrigation System – Components List
+
+1. ESP32 Dev Board – 1 piece
+2. Capacitive Soil Moisture Sensor – 1 piece
+3. 1-Channel Relay Module – 1 piece
+4. Water Pump (5V or 12V) – 1 piece
+5. Jumper Wires – 10 pieces (male-to-male/female)
+6. Breadboard – 1 piece
+7. Power Adapter or Battery (as per pump rating) – 1 piece
+8. USB Cable for ESP32 – 1 piece
+9. Smartphone with Blynk App – 1
+
+Optional:
+- DHT11 or DHT22 Sensor (for future extension)
+- Resistors (for voltage division if needed)
