@@ -33,7 +33,7 @@ This is a smart irrigation system built using ESP32, soil moisture sensor, and a
 ---
 
 ## 🖼️ Circuit Diagram
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](ciruit_diagram.png)
 
 ---
 
